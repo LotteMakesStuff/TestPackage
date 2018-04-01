@@ -1,0 +1,12 @@
+{
+    "name": "com.lms.boundingvolumes",
+    "displayName": "Bounding Volumes",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Custom Bounding Volume structs, for situations where we cant use the ones provided by Unity.",
+    "keywords": [
+        "maths",
+        "unity"
+    ],
+    "category": "Unity"
+}
